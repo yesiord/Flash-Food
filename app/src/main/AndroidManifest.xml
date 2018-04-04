@@ -16,6 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegistroCliente"
+            android:label="@string/title_activity_registro_cliente"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegitroTarjeta"
+            android:label="@string/title_activity_regitro_tarjeta"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

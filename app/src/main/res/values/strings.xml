@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Flash Food</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registro_cliente">RegistroCliente</string>
+    <string name="title_activity_regitro_tarjeta">RegitroTarjeta</string>
 </resources>
